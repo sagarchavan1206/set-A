@@ -1,0 +1,7 @@
+# set-A
+#Write a python program to accept two variables and swap it
+A=int(input("Enter the fist value"))
+B=int(input("Enter the value 2"))
+A,B=B,A
+print("value 1==",A)
+print("value 2==",B)
