@@ -1,0 +1,7 @@
+#write a python program to accept the base and height 
+#find the area of Triangle
+b=int(input("Enter the base-"))
+h=int(input("Enter the Height-"))
+A=0.5*b*h
+Print("area of Triangle=",a)
+
